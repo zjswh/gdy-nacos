@@ -1,4 +1,4 @@
-module github.com/swh/gdy-nacos
+module github.com/zjswh/gdy-nacos
 
 go 1.16
 
