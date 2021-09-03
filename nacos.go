@@ -21,6 +21,10 @@ var (
 	configClient config_client.IConfigClient
 )
 
+func main()  {
+	
+}
+
 func Setup(nacosIp string, nacosPort uint64, appIp string, appPort uint64, serverName string) {
 	serverConfigs = []constant.ServerConfig{
 		{
